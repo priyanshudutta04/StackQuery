@@ -1,0 +1,16 @@
+langchain-openai
+langchain-core
+python-dotenv
+streamlit
+langchain_community
+bs4
+sentence-transformers
+chromadb
+pypdf
+torch
+langchain_google_genai 
+google-generativeai
+wikipedia
+arxiv
+langchainhub
+langchain-groq
